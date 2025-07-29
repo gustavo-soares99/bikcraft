@@ -38,9 +38,6 @@
 .cor-6 {
   color: var(--cor-6);
 }
-.cor-1 {
-  color: var(--cor-1);
-}
 .cor-7 {
   color: var(--cor-7);
 }
@@ -52,6 +49,12 @@
 }
 .cor-10 {
   color: var(--cor-10);
+}
+.cor-11 {
+  color: var(--cor-11);
+}
+.cor-12 {
+  color: var(--cor-12);
 }
 
 /* cores primairas */
